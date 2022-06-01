@@ -24,9 +24,26 @@ Assumptions for Markov Chain :
 
 
 # Program
+```python
+# Developed by
+# Register Number: 212220230006
+# Name: Balaji N
+
+import numpy as np
+p0 = [0.3,0.2,0.5]
+P = [[0,2/3,1/3],[1/2,0,1/2],[1/2,1/2,0]]
+n=10
+for i in range(1,n+1):
+    p0 = np.multiply(p0,P)
+    print("The %d -step probability distribution is "%i)
+    print(p0)
+
+```
+# Output : 
+
+![Screenshot (26)](https://user-images.githubusercontent.com/75234946/170193313-51612b7c-e2fd-44b0-a237-f9ce93a611aa.png)
 
 
-
-
-# Results and Output : 
+# Result :
+Thus a program to implement Markov process is implemented
 
