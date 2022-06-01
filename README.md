@@ -41,8 +41,7 @@ for i in range(1,n+1):
 ```
 # Output : 
 
-![Screenshot (26)](https://user-images.githubusercontent.com/75234946/170193313-51612b7c-e2fd-44b0-a237-f9ce93a611aa.png)
-
+![Screenshot (157)](https://user-images.githubusercontent.com/75235334/171331719-7e15efcd-cbd4-4484-8345-5793c36afa05.png)
 
 # Result :
 Thus a program to implement Markov process is implemented
